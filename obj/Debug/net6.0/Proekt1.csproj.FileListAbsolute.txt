@@ -1,0 +1,15 @@
+C:\Users\chist\Downloads\Proekt1\bin\Debug\net6.0\Proekt1.exe
+C:\Users\chist\Downloads\Proekt1\bin\Debug\net6.0\Proekt1.deps.json
+C:\Users\chist\Downloads\Proekt1\bin\Debug\net6.0\Proekt1.runtimeconfig.json
+C:\Users\chist\Downloads\Proekt1\bin\Debug\net6.0\Proekt1.dll
+C:\Users\chist\Downloads\Proekt1\bin\Debug\net6.0\Proekt1.pdb
+C:\Users\chist\Downloads\Proekt1\obj\Debug\net6.0\Proekt1.csproj.AssemblyReference.cache
+C:\Users\chist\Downloads\Proekt1\obj\Debug\net6.0\Proekt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chist\Downloads\Proekt1\obj\Debug\net6.0\Proekt1.AssemblyInfoInputs.cache
+C:\Users\chist\Downloads\Proekt1\obj\Debug\net6.0\Proekt1.AssemblyInfo.cs
+C:\Users\chist\Downloads\Proekt1\obj\Debug\net6.0\Proekt1.csproj.CoreCompileInputs.cache
+C:\Users\chist\Downloads\Proekt1\obj\Debug\net6.0\Proekt1.dll
+C:\Users\chist\Downloads\Proekt1\obj\Debug\net6.0\refint\Proekt1.dll
+C:\Users\chist\Downloads\Proekt1\obj\Debug\net6.0\Proekt1.pdb
+C:\Users\chist\Downloads\Proekt1\obj\Debug\net6.0\Proekt1.genruntimeconfig.cache
+C:\Users\chist\Downloads\Proekt1\obj\Debug\net6.0\ref\Proekt1.dll
