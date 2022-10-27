@@ -20,3 +20,16 @@ else
 {
   arrayOfStrings = new string[]  {"Омск", "Уфа", "Москва", "Рим", "Милан", "Бар"};
 }
+
+
+int lengthLimit = 3;
+
+int numbersItems = CheckArray(arrayOfStrings, lengthLimit);
+
+string[] newArrayOfStrings = new string[numbersItems];
+
+FillNewArray(arrayOfStrings, newArrayOfStrings, lengthLimit);
+
+Console.WriteLine($"{PrintArray(newArrayOfStrings)}");
+
+
